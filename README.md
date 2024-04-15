@@ -6,6 +6,7 @@ This repository contains an implementation of a decision tree classifier to pred
 https://archive.ics.uci.edu/static/public/222/bank+marketing.zip
 
 # Requirements
+jupyter notebook</br>
 Python 3.x </br>
 pandas</br>
 numpy</br>
